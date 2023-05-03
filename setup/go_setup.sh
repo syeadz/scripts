@@ -2,7 +2,7 @@
 
 EXPORT="Now you need to add export PATH=%\$PATH:/usr/local/go/bin to .bashrc (if you havent)"
 
-NAME="go1.20.2.linux-amd64.tar.gz"
+NAME="go1.20.4.linux-amd64.tar.gz"
 
 delete_go () {
   rm -rf /usr/local/go
